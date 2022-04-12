@@ -7,7 +7,8 @@ To write a program to implement the linear regression using gradient descent.
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
-##ALgorithm:
+
+## ALgorithm:
 
 1.Start the program
 2.Import the numpy.pandas and matplotlib
